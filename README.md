@@ -27,10 +27,8 @@
   <img width="500" height="900" src="https://github.com/user-attachments/assets/8b5e5fad-1516-450f-a2ad-867d5efdae1a">
 
   <!-- Video with same dimensions -->
-  <video width="500" height="900" controls>
-    <source src="https://github.com/user-attachments/assets/357fe916-e2f5-4e45-83a8-4a23293688fb" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video width="500" height="900" src="https://github.com/user-attachments/assets/357fe916-e2f5-4e45-83a8-4a23293688fb" type="video/mp4" controls>
+   
 </div>
 
 
