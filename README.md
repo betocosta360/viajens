@@ -4,7 +4,6 @@
   
   <img width="500" height="900" src="https://github.com/user-attachments/assets/ce80162d-fd3e-4952-bfbd-d979801c2fa8">
   
-
   <img width="500" height="900" src="https://github.com/user-attachments/assets/c7320f91-3173-44bf-a078-5458f27cab2f">
   
   <img width="500" height="900" src="https://github.com/user-attachments/assets/4999ddee-4cbe-4532-91f6-305629b85272">
@@ -25,11 +24,15 @@
   
   <img width="500" height="900" src="https://github.com/user-attachments/assets/fc2b446f-677e-4c03-b9c1-bbdc765e9394">
   
- 
   <img width="500" height="900" src="https://github.com/user-attachments/assets/8b5e5fad-1516-450f-a2ad-867d5efdae1a">
 
-  https://github.com/user-attachments/assets/357fe916-e2f5-4e45-83a8-4a23293688fb
+  <!-- Video with same dimensions -->
+  <video width="500" height="900" controls>
+    <source src="https://github.com/user-attachments/assets/357fe916-e2f5-4e45-83a8-4a23293688fb" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
+
 
 
 
