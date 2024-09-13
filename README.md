@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
-  <img width="680" height="1080" src="https://github.com/user-attachments/assets/25be5a4d-3c33-411f-9b6e-5367b5927b35">
+  <img width="500" height="1080" src="https://github.com/user-attachments/assets/25be5a4d-3c33-411f-9b6e-5367b5927b35">
   
   <img width="720" height="1080" src="https://github.com/user-attachments/assets/ce80162d-fd3e-4952-bfbd-d979801c2fa8">
   
